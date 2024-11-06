@@ -1,0 +1,39 @@
+body {
+    background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
+    radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);
+    font: normal 15pt Arial;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(83, 78, 78);
+}
+
+div {
+    padding: 3px;
+}
+
+footer {
+    text-align: center;
+}
+
+#resmeio {
+    text-align: center;
+}
+
+#resbaixo {
+    text-align: center;
+}
+
+#dados {
+    text-align: center;
+}
+
